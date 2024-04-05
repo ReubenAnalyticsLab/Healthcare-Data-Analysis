@@ -73,7 +73,4 @@ I had to remove all zero values from budget and revenue columns because they wou
 |Heading1|Heading2|
 |--------|--------|
 |Content1|Content2|
-|--------|--------|
 |Python|SQL|
-|--------|--------|
-
