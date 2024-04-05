@@ -66,3 +66,11 @@ I had to remove all zero values from budget and revenue columns because they wou
 
 1. SQL for businesses by werty.
 2. [Stack Overflow](htttps//stackoverflow.com)
+
+😄
+💻
+
+|Heading1|Heading2|
+|Content1|Content2|
+|--------|--------|
+|Python|SQL|
