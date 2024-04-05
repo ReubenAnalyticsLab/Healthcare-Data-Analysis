@@ -76,3 +76,9 @@ I had to remove all zero values from budget and revenue columns because they wou
 |--------|--------|
 |Content1|Content2|
 |Python|SQL|
+
+'Column 1'
+
+ **Bold**
+
+ *italics*
